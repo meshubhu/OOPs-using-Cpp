@@ -2,7 +2,7 @@
 
 ## Tentativelist of Experiments for Practical 
 
-https://www.includehelp.com/cpp-programming-examples-solved-cpp-programs.aspx
+Source of practicals - https://www.includehelp.com/cpp-programming-examples-solved-cpp-programs.aspx
 
 ##### 1. C++ program to print “Hello World”. 
 ##### 2. Read character array as string using cin in C++. 
