@@ -1,6 +1,6 @@
 # OOPs-using-Cpp
 
-## Tentativelist of Experiments for Practical 
+## Tentative list of Experiments for Practical 
 
 Source of practicals - https://www.includehelp.com/cpp-programming-examples-solved-cpp-programs.aspx
 
