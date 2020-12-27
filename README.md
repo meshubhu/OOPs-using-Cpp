@@ -2,6 +2,8 @@
 
 ## Tentativelist of Experiments for Practical 
 
+https://www.includehelp.com/cpp-programming-examples-solved-cpp-programs.aspx
+
 ##### 1. C++ program to print “Hello World”. 
 ##### 2. Read character array as string using cin in C++. 
 ##### 3. C++ program to demonstrate cascading cout&cin. 
