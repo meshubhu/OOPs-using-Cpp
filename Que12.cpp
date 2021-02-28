@@ -14,7 +14,7 @@ int main( )
     int random = 0;
     int counter;
     
-    cout << "How much do you want randome numbers ?";
+    cout << "How many number do you want random ?";
     cin >> counter;
 
     // Seed the random function first
